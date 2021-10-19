@@ -14,7 +14,7 @@ namespace BasicSeleniumProject
     [TestFixture]
     class SeleniumCSharpTutorial05
     {
-        IExtentReports 
+        //IExtentReports 
         [OneTimeSetUp]
         public void ExtentStart()
         {
